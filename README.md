@@ -1,6 +1,6 @@
 # CodeAlpha - Secure Coding Review 
 
-## Task 3: Secure Coding Review | CodeAlpha Cybersecurity Internship
+## Secure Coding Review
 
 ---
 
